@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_Registration-Firebase</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm_Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="redirect">Already have an account login</string>
+    <string name="login">login</string>
+    <string name="sign_in">Don_t_have_an_account_sign_in</string>
+</resources>
